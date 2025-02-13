@@ -229,8 +229,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #03dffc;}
     border-radius: 3px;
     text-transform: capitalize;
     color: #fff;
-    background: #b636ff;
-    border:1px solid #b636ff;
+    background: #03dffc;
+    border:1px solid #03dffc;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
     -webkit-transition: 0.3s linear; 
     -moz-transition: 0.3s linear; 
@@ -409,7 +409,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     margin-bottom: 37px;
 }
 .progress-bar {
-   background: #b636ff;
+   background: #03dffc;
     border-radius: 3px;
    -webkit-transition: width 1.5s ease-in-out;
    -ms-transition: width 1.5s ease-in-out;
@@ -424,7 +424,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .tooltip > .tooltip-inner {
    background-color: transparent;
    padding: 1px 5px;
-   color: #b636ff;
+   color: #03dffc;
    font-weight: 500;
    font-size: 12px;
    border-radius: 0;
@@ -569,10 +569,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     width:100%;
     height: 100%;
     background: #03dffc;
-    background: -moz-linear-gradient(left, #03dffc 0%, #b636ff 100%);
-    background: -webkit-linear-gradient(left, #03dffc 0%,#b636ff 100%);
-    background: linear-gradient(to right, #03dffc 0%,#b636ff 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#03dffc', endColorstr='#b636ff',GradientType=1 );
+    background: -moz-linear-gradient(left, #03dffc 0%, #03dffc 100%);
+    background: -webkit-linear-gradient(left, #03dffc 0%,#03dffc 100%);
+    background: linear-gradient(to right, #03dffc 0%,#03dffc 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#03dffc', endColorstr='#03dffc',GradientType=1 );
     -webkit-transform:scale(0);
     -moz-transform:scale(0);
     -ms-transform:scale(0);
@@ -720,8 +720,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     height:50px;
     text-transform:capitalize;
     margin-top: 3px;
-    background: #b636ff;
-    border: 1px solid #b636ff;
+    background: #03dffc;
+    border: 1px solid #03dffc;
     cursor:pointer;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
      -webkit-transition: .5s; 
@@ -798,7 +798,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     transition: .3s;
 }
 .hm-foot-icon ul li>a:hover{
-    color: #b636ff;
+    color: #03dffc;
 }/*hm-foot-icon*/
 
 .hm-footer-copyright p{
@@ -822,8 +822,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     font-size: 20px;
     cursor: pointer;
     color: #fff;
-    background:#b636ff;
-	border:1px solid #b636ff;
+    background:#03dffc;
+	border:1px solid #03dffc;
 	border-radius:50%;
 	-webkit-transition: .5s; 
 	-moz-transition:.5s; 
@@ -834,8 +834,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 #scroll-Top  .return-to-top:hover {
     background:#fff;
-    color: #b636ff;
-	border:1px solid #b636ff;
+    color: #03dffc;
+	border:1px solid #03dffc;
 }
 
 #scroll-Top  .return-to-top i{
